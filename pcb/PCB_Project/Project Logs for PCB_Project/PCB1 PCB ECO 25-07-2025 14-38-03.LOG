@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=A1-3
+Removed Pin From Net: NetName=Flame Pin=A1-4
+Removed Pin From Net: NetName=bazzer Pin=A1-5
+Removed Pin From Net: NetName=relay Pin=A1-6
+Removed Pin From Net: NetName=SCL Pin=A1-20
+Removed Pin From Net: NetName=SDA Pin=A1-21
+Removed Pin From Net: NetName=gas Pin=A1-22
+Removed Pin From Net: NetName=VCC Pin=A1-26
+Removed Pin From Net: NetName=GND Pin=A1-28
+Removed Pin From Net: NetName=+12 Pin=A1-29
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=NetJP5_1 Pin=RL?-1
+Removed Pin From Net: NetName=NetJP5_2 Pin=RL?-3
+Removed Pin From Net: NetName=NetD1_1 Pin=RL?-4
+Removed Pin From Net: NetName=VCC Pin=RL?-5
+Removed Member From Class: ClassName=Sheet1 Member=A1
+Removed Member From Class: ClassName=Sheet1 Member=L1
+Removed Member From Class: ClassName=Sheet1 Member=RL?
+Change Component Comment : Designator=R1 Old Comment=220 New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=220 New Comment=1k
+Change component parameters: Designator = "R1" ("R1"); Footprint = "tro vach 1/4w"; UniqueID = "\XEXMYKDF" ("\XEXMYKDF")
+Change component parameters (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "tro vach 1/4w"; UniqueID = "\TDMRADIC" ("\TDMRADIC")
+Change component parameters (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Room: Name=Sheet1

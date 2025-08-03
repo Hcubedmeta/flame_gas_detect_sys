@@ -1,0 +1,80 @@
+Added Component: Designator=*1(UNO Nano)
+Added Component: Designator=B1(Buzzer)
+Added Component: Designator=J1(JP4)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JP4)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J3(J2)
+Add component (AddParameter): Name = "Value"; Value = "JP 2"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JP4)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J5(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=*1-30
+Added Pin To Net: NetName=+12 Pin=J3-2
+Added Net: Name=+12
+Added Pin To Net: NetName=bazzer Pin=*1-6
+Added Pin To Net: NetName=bazzer Pin=B1-1
+Added Pin To Net: NetName=bazzer Pin=R1-1
+Added Net: Name=bazzer
+Added Pin To Net: NetName=Flame Pin=*1-5
+Added Pin To Net: NetName=Flame Pin=J2-3
+Added Net: Name=Flame
+Added Pin To Net: NetName=gas Pin=*1-26
+Added Pin To Net: NetName=gas Pin=J1-1
+Added Net: Name=gas
+Added Pin To Net: NetName=GND Pin=*1-4
+Added Pin To Net: NetName=GND Pin=*1-29
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_1 Pin=RL1-4
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=RL1-2
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=RL1-1
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=RL1-3
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=relay Pin=*1-7
+Added Pin To Net: NetName=relay Pin=R2-1
+Added Net: Name=relay
+Added Pin To Net: NetName=SCL Pin=*1-22
+Added Pin To Net: NetName=SCL Pin=J4-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=*1-21
+Added Pin To Net: NetName=SDA Pin=J4-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=*1-27
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J4-3
+Added Pin To Net: NetName=VCC Pin=RL1-5
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

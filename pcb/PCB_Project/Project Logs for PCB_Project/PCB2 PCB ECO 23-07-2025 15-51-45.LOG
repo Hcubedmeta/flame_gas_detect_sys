@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=JP3-2
+Added Pin To Net: NetName=+12 Pin=A1-29
+Added Pin To Net: NetName=+12 Pin=JP3-2
+Added Net: Name=+12
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 JP 1x2 2.54
+Added Room: Name=Sheet1

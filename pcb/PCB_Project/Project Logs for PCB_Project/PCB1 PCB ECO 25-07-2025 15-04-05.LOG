@@ -1,0 +1,8 @@
+Added Component: Designator=D?(D1A)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD?_1 Pin=RL1-4
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N4007

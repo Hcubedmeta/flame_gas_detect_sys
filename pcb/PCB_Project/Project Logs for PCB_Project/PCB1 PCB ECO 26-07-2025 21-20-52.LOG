@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=relay Pin=R2-1
+Added Pin To Net: NetName=relay Pin=D?-1
+Added Pin To Net: NetName=relay Pin=RL1-4
+Added Member To Class: ClassName=Sheet1 Member=Component *1 UNO Nano
+Added Member To Class: ClassName=Sheet1 Member=Component B1 Buzzer
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Jumper 4
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Jumper 4
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Jumper 2
+Added Member To Class: ClassName=Sheet1 Member=Component J4 Jumper 4
+Added Member To Class: ClassName=Sheet1 Member=Component J5 Jumper 3
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet1 Member=Component RL1 Relay
+Added Room: Name=Sheet1

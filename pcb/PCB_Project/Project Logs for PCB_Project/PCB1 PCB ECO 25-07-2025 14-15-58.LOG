@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJP5_1 Pin=RL1-1
+Removed Pin From Net: NetName=NetJP5_2 Pin=RL1-3
+Removed Pin From Net: NetName=NetD1_1 Pin=RL1-4
+Removed Pin From Net: NetName=VCC Pin=RL1-5
+Removed Member From Class: ClassName=Sheet1 Member=RL1
+Removed Member From Class: ClassName=Sheet1 Member=RL2
+Added Component: Designator=RL?(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP5_1 Pin=RL?-1
+Added Pin To Net: NetName=NetJP5_2 Pin=RL?-3
+Added Pin To Net: NetName=NetD1_1 Pin=RL?-4
+Added Pin To Net: NetName=VCC Pin=RL?-5
+Added Member To Class: ClassName=Sheet1 Member=Component RL? Relay 10A/12V
+Added Room: Name=Sheet1
