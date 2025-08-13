@@ -5,3 +5,4 @@ all the components of the project:
 4. gas_detect_sensor
 5. fan
 6. buzzer
+demo : https://drive.google.com/file/d/1cS46P-bu5rUBxlCEeQ8EwwCoPc1iazbD/view
